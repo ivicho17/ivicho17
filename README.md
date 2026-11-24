@@ -15,7 +15,6 @@ Busco mi primera oportunidad como **Analista SOC (N1/N2)** o en **bastionado/har
 
 - 🔭 Estudiando la certificación **CompTIA Security+ (SY0-701)**
 - 🧪 Prácticas de laboratorio documentadas en 👉 [**ciberseguridad-labs**](https://github.com/ivicho17/ciberseguridad-labs)
-- 🌱 Aprendiendo a diario en **TryHackMe** y **HackTheBox**
 - 📍 Madrid, España · 🗣️ Español nativo · English B2
 
 ---
